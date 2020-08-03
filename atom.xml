@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>IntAndFloat</title>
   
-  <subtitle>Blaine的学习、日常、技术博客</subtitle>
+  <subtitle>Blaine的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://intandfloat.top/"/>
